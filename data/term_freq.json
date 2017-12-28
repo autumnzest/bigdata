@@ -15,42 +15,37 @@
       "values": [
         {
           "col": "data",
-          "idx": "#Universe",
+          "idx": "#exo",
+          "val": 42
+        },
+        {
+          "col": "data",
+          "idx": "#universe",
           "val": 41
         },
         {
           "col": "data",
-          "idx": "#EXO",
-          "val": 40
-        },
-        {
-          "col": "data",
-          "idx": "#MAYWARDCoPpleDate",
+          "idx": "#maywardcoppledate",
           "val": 9
         },
         {
           "col": "data",
-          "idx": "#Apple",
+          "idx": "#apple",
+          "val": 9
+        },
+        {
+          "col": "data",
+          "idx": "#iphone",
           "val": 5
         },
         {
           "col": "data",
-          "idx": "#apple",
+          "idx": "#win",
           "val": 4
         },
         {
           "col": "data",
-          "idx": "#win",
-          "val": 3
-        },
-        {
-          "col": "data",
-          "idx": "#iPhoneX",
-          "val": 3
-        },
-        {
-          "col": "data",
-          "idx": "#iPhone",
+          "idx": "#iphonex",
           "val": 3
         },
         {
@@ -60,7 +55,12 @@
         },
         {
           "col": "data",
-          "idx": "#iphone",
+          "idx": "#llsfriendorfoe",
+          "val": 2
+        },
+        {
+          "col": "data",
+          "idx": "#homepod",
           "val": 2
         }
       ]
