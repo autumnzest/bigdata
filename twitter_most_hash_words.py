@@ -59,7 +59,7 @@ if __name__ == '__main__':
         count_all = Counter()
         for line in f:
             tweet = json.loads(line)
-            tokens = preprocess(tweet['text'])
+#            tokens = preprocess(tweet['text'])
             terms_stop = [term for term in preprocess(tweet['text']) if term not in stop]
             # Count hashtags only
             terms_hash = [term for term in preprocess(tweet['text']) 

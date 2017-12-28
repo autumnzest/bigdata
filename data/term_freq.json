@@ -16,52 +16,52 @@
         {
           "col": "data",
           "idx": "#Universe",
-          "val": 40
+          "val": 41
         },
         {
           "col": "data",
           "idx": "#EXO",
-          "val": 39
+          "val": 40
         },
         {
           "col": "data",
-          "idx": "#Exo",
-          "val": 2
-        },
-        {
-          "col": "data",
-          "idx": "#Power",
-          "val": 2
+          "idx": "#MAYWARDCoPpleDate",
+          "val": 9
         },
         {
           "col": "data",
           "idx": "#Apple",
-          "val": 2
+          "val": 5
         },
         {
           "col": "data",
-          "idx": "#romance",
-          "val": 1
+          "idx": "#apple",
+          "val": 4
+        },
+        {
+          "col": "data",
+          "idx": "#win",
+          "val": 3
         },
         {
           "col": "data",
           "idx": "#iPhoneX",
-          "val": 1
+          "val": 3
         },
         {
           "col": "data",
-          "idx": "#Cafe_Universe",
-          "val": 1
+          "idx": "#iPhone",
+          "val": 3
         },
         {
           "col": "data",
-          "idx": "#HomePod",
-          "val": 1
+          "idx": "#app",
+          "val": 2
         },
         {
           "col": "data",
-          "idx": "#Gorogoa",
-          "val": 1
+          "idx": "#iphone",
+          "val": 2
         }
       ]
     },
